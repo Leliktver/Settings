@@ -1,0 +1,13 @@
+[user]
+	name = Lelik
+	email = lelik-tver@yandex.ru
+[core]
+	autocrlf = true
+	safecrlf = warn
+	quotepath = off
+[alias]
+	st = status
+	l = log --oneline --graph --decorate --all
+	co = checkout
+	br = branch
+	ci = commit
